@@ -1,2 +1,2 @@
 # smart-video-workshop
-A link to the Intel OpenVINO workshop
+See https://github.com/intel-iot-devkit/smart-video-workshop/
